@@ -1,0 +1,55 @@
+{
+  "name": "Chandra Mohan Ray",
+  "type": "personal",
+  "bio": "const Chandra Mohan Ray= {
+  pronouns: "he" | "him",
+  code: [Javascript, React js, HTML, CSS , C++,nodejs,express js,mangodb],
+  tools: [React, Nextjs, Redux, Node,  Styled-Components, Jest ],
+  intrests: [
+      "I am fond of web development especially frontend development",
+     
+  ],
+  whatAmILearningNow: [
+      "data structures and algorithms",
+      "creative coding"
+      ],
+
+}",
+  "avatar": "https://avatars.githubusercontent.com/u/81677893?s=400&u=f1103e8f1623342819ecc668c9ab6c2b354f1975&v=4",
+  "links": [
+    {
+      "name": "Check out my personal website",
+      "url": "https://cmray.tech/",
+      "icon": "globe"
+    },
+    {
+      "name": "Take a look at my GitHub",
+      "url": "https://github.com/ChandraMohanRay?tab=repositories",
+      "icon": "github"
+    },
+    {
+      "name": "I'm on Telegram most of the time",
+      "url": "https:",
+      "icon": "telegram"
+    },
+    {
+      "name": "See my awesome tweets on Twitter",
+      "url": "https://twitter.com/chandu_obed",
+      "icon": "twitter"
+    },
+    {
+      "name": "Connect with me on LinkedIn",
+      "url": "https://www.linkedin.com/in/cmray92/",
+      "icon": "linkedin"
+    }
+  ],
+  "milestones": [
+    {
+      "title": "Started Tech Journey",
+      "date": "January 2018",
+      "icon": "books",
+      "color": "grey",
+      "description": "Started my Tech Journey at 16 and then left it for a year, but now I won't without making a mark"
+    }
+  ]
+}
