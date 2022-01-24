@@ -1,0 +1,27 @@
+{
+  "name": "Chandra Mohan Ray ",
+  "type": "personal",
+  "bio": "Mren-Stack Developer",
+  "avatar": "https://github.com/YOUR_GITHUB_USERNAME.png",
+  "links": [
+    {
+      "name": "Follow me on GitHub",
+      "url": "https://github.com/ChandraMohanRay?tab=repositories",
+      "icon": "github"
+    },
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/chandu_obed",
+      "icon": "twitter"
+    }
+  ],
+  "milestones": [
+    {
+      "title": "Started Freelancing",
+      "date": "December 2021",
+      "icon": "dollar",
+      "color": "grey",
+      "description": "Started freelancing"
+    }
+  ]
+}
